@@ -2,4 +2,7 @@
 Creation of a first repository - just another repository
 
 Interested in coding, beginner level.
-I also like moon tacos.
+
+Just trialling and re-learning how to include extra things.
+
+
